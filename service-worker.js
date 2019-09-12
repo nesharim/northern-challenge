@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/northern-challenge/precache-manifest.159263e3a3ca8b95344f3cbabec155fd.js"
+  "/northern-challenge/precache-manifest.551061a228715f311029c3c611f3e513.js"
 );
 
 self.addEventListener('message', (event) => {

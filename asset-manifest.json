@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/northern-challenge/static/css/main.d534ff95.chunk.css",
+    "main.css": "/northern-challenge/static/css/main.cba15b9d.chunk.css",
     "main.js": "/northern-challenge/static/js/main.33560270.chunk.js",
     "main.js.map": "/northern-challenge/static/js/main.33560270.chunk.js.map",
     "runtime~main.js": "/northern-challenge/static/js/runtime~main.61202db0.js",
@@ -8,8 +8,8 @@
     "static/js/2.274281ac.chunk.js": "/northern-challenge/static/js/2.274281ac.chunk.js",
     "static/js/2.274281ac.chunk.js.map": "/northern-challenge/static/js/2.274281ac.chunk.js.map",
     "index.html": "/northern-challenge/index.html",
-    "precache-manifest.159263e3a3ca8b95344f3cbabec155fd.js": "/northern-challenge/precache-manifest.159263e3a3ca8b95344f3cbabec155fd.js",
+    "precache-manifest.551061a228715f311029c3c611f3e513.js": "/northern-challenge/precache-manifest.551061a228715f311029c3c611f3e513.js",
     "service-worker.js": "/northern-challenge/service-worker.js",
-    "static/css/main.d534ff95.chunk.css.map": "/northern-challenge/static/css/main.d534ff95.chunk.css.map"
+    "static/css/main.cba15b9d.chunk.css.map": "/northern-challenge/static/css/main.cba15b9d.chunk.css.map"
   }
 }

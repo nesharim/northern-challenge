@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1f797c77be6f548abbd1ab39e3523df",
+    "revision": "d43d3280cacda11aa8adfaccfd00f9e1",
     "url": "/northern-challenge/index.html"
   },
   {
-    "revision": "510c7d616ef7a541d45c",
-    "url": "/northern-challenge/static/css/main.d534ff95.chunk.css"
+    "revision": "5e92d3b878fb95f0390a",
+    "url": "/northern-challenge/static/css/main.cba15b9d.chunk.css"
   },
   {
     "revision": "78047b893a4497559426",
     "url": "/northern-challenge/static/js/2.274281ac.chunk.js"
   },
   {
-    "revision": "510c7d616ef7a541d45c",
+    "revision": "5e92d3b878fb95f0390a",
     "url": "/northern-challenge/static/js/main.33560270.chunk.js"
   },
   {
