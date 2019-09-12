@@ -1,0 +1,32 @@
+@import "../../../variables.scss";
+
+.container {
+	margin-top: $container-bottom-margin - 20;
+}
+
+.row {
+	display: flex;
+	width: 100%;
+	margin-bottom: $container-bottom-margin;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.col {
+	width: 48.8%;
+}
+
+.error {
+	text-align: right;
+	font-size: 12px;
+}
+
+.error:empty {
+	height: 15px;
+}
+
+@media screen and (max-width: 768px) {
+	.col {
+		width: 100%;
+	}
+}

@@ -1,0 +1,47 @@
+@import "../../variables.scss";
+
+button {
+	width: 100%;
+	background-color: $red;
+	font-family: $merriweather-font;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 15px;
+	border-radius: 5px;
+	border: none;
+	color: $text-primary-color;
+
+	&:hover {
+		background-color: fade-out($color: $red, $amount: 0.2);
+		transition: all 0.4 ease 0s;
+		cursor: pointer;
+	}
+
+	&:active {
+		background-color: fade-in($color: $red, $amount: 0.4);
+		transform: translateY(2px);
+	}
+
+	&:focus {
+		outline: none;
+	}
+}
+
+.icon {
+	vertical-align: middle;
+	margin-left: 10px;
+}
+
+.icon-spin {
+	@extend .icon;
+	animation: icon-spin 2s infinite linear;
+}
+
+@keyframes icon-spin {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(359deg);
+	}
+}

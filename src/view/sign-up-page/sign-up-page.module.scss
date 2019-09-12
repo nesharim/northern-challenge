@@ -1,0 +1,22 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.registration-enter {
+	opacity: 0.01;
+}
+
+.registration-enter.registration-enter-active {
+	opacity: 1;
+	transition: opacity 500ms ease-in;
+}
+
+.registration-exit {
+	opacity: 1;
+}
+
+.registration-exit.registration-exit-active {
+	opacity: 0.01;
+	transition: opacity 300ms ease-in;
+}

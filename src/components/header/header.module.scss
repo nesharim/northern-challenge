@@ -1,0 +1,14 @@
+@import "../../variables.scss";
+
+.title {
+	font-family: $montserrat-font;
+	font-weight: bold;
+	font-size: 65px;
+	margin-bottom: $container-bottom-margin;
+}
+
+.subTitle {
+	@extend .title;
+	font-size: 35px;
+	margin-top: $container-bottom-margin - 10;
+}

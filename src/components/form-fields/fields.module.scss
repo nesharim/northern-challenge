@@ -1,0 +1,24 @@
+@import "../../variables.scss";
+
+input[type="text"],
+select {
+	padding: 15px;
+	box-sizing: border-box;
+	resize: vertical;
+	color: $text-secondary-color;
+	background-color: $text-primary-color;
+	font-size: 16px;
+	font-family: $merriweather-font;
+	font-style: italic;
+	width: 100%;
+}
+
+input:focus,
+select:focus {
+	outline: none;
+}
+
+.error {
+	border-color: $red;
+	border-width: medium;
+}
