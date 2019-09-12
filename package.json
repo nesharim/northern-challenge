@@ -21,7 +21,7 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "yarn build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -r https://github.com/nesharim/northern-challenge.git -d build"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
