@@ -2,7 +2,7 @@
 	"name": "northern-challenge",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://nesahrim.github.io/northen-challenge",
+	"homepage": "https://nesharim.github.io/northern-challenge",
 	"dependencies": {
 		"cross-env": "^5.2.1",
 		"gh-pages": "^2.1.1",
@@ -21,7 +21,7 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "yarn build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d build -r https://github.com/nesharim/northern-challenge.git"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
