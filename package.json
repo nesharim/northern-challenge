@@ -2,7 +2,7 @@
 	"name": "northern-challenge",
 	"version": "0.1.0",
 	"private": true,
-	"hompage": "https://nesahrim.github.io/northen-challenge",
+	"homepage": "https://nesahrim.github.io/northen-challenge",
 	"dependencies": {
 		"cross-env": "^5.2.1",
 		"gh-pages": "^2.1.1",
